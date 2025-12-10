@@ -67,13 +67,13 @@ This is a selection of images taken using the Observatory by our undergraduate a
 <div class="gallery-grid">
 {% assign gallery = site.static_files
    | where_exp: "file", "file.path contains '/images/gallery/'"
-   | where_exp: "file", "file.extname == '.JPG'"
-   | sort: 'name' %}
+   | sort: 'modified_time' %}
 
 {% for image in gallery %}
   {% assign caption = site.data.gallery[image.basename] %}
   <div class="gallery-item" data-fullsrc="{{ image.path }}">
     <img src="{{ image.path }}" alt="Image {{ forloop.index }}">
+    
     {% if caption %}
       <pre class="hidden-caption" style="display:none;">{{ caption }}</pre>
     {% endif %}

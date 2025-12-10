@@ -6,10 +6,11 @@ permalink: /contact-us/
 
 The best way to contact the observatory is by email: [observatories@leicester.ac.uk](mailto:observatories@leicester.ac.uk)
 
-Parking is available in the Roger Bettles Sports Centre car park. Alternatively, the 40S bus service stops at The Broadway stop just outside the car park.
+Parking is available in the Roger Bettles Sports Centre car park. Alternatively, the 40S bus service stops at The Broadway stop just outside the car park, though this only runs until about 7 PM. 
 
-Unfortunately, the observatory is not wheelchair accessible. There is a step into the dome and looking through the telescope requires climbing a mobile set of stairs.
+There is **no heating** in the dome! This is to allow us to get the best views of the sky possible, as hot air rising from the dome disturbs the view. As a result, please ensure you wrap up warm for visits! There is a warm room available on site with heating, hot drinks, and a toilet if you need to warm up during the night.
 
+Unfortunately, the observatory is not wheelchair accessible due to technical constraints on the telescope. Looking through it requires climbing a mobile set of stairs and there is also a step into the dome itself.
 
 The observatory is located at: 
 **[ADDRESS]**
