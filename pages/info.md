@@ -6,6 +6,7 @@ permalink: /info/
 
 This page is still a WIP. Please check back soon!
 
- Syntax | Description |
+   Description |
+| ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
