@@ -7,6 +7,5 @@ permalink: /info/
 This page is still a WIP. Please check back soon!
 
  Syntax | Description |
-| ----------- |
 | Header | Title |
 | Paragraph | Text |
