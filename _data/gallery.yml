@@ -93,3 +93,32 @@ venus_gibbous_202030520: |
   Exposures: Single
   Processing: Photos App
   Author: Simon Toogood
+
+hat56_20230307: |
+  An exoplanet transit of HAT-P-56B. The blue dots show the light of the star as measured at Oadby. The red line is a model fitted to the data, showing that there is a decrease in brightness due to an exoplanet transiting the star.
+
+  Date taken: 7 March 2023
+  Analysis Software: AstroImageJ
+  Authors: Oliver Malkin et al.
+
+sn2023ixf_20230521: |
+  A supernova in the Pinwheel Galaxy (M101), just one day after it was discovered. This was the closesnt and brightest supernova in nearly a decade - outshining the core of the galaxy by over 10 times.
+
+  Date taken: 20 May 2023
+  Exposures: 100x30s
+  Processing: Siril, GIMP
+  Authors: Simon Toogood, Oliver Malkin
+
+jupiter_20231129: |
+  Jupiter
+
+  Date taken: 29 November 2023
+  Exposures: Single
+  Processing: None
+  Authors: Simon Toogood and Oliver Malkin
+
+eratosthenes_20240417: |
+  The crater Eratosthenes and the Montes Apenninus mountain range on the Moon. Eratosthenes is 59km wide, 3.6km deep, and estimated that this crater is 3.2 billion years old. 
+  Exposures: Single
+  Processing: None
+  Author: Simon Toogood

@@ -4,4 +4,4 @@ title: Technical Info
 permalink: /info/
 ---
 
-Info about the telescopes
+This page is still a WIP. Please check back soon!
