@@ -13,14 +13,14 @@ Currently in our two observatories there is a [20 inch Planewave CDK20 telescope
 
 <br>
 
-## Large Observatory (πCETL telescope)
+## Large Observatory (πCETL Telescope)
 
 | Optical design | Corrected Dall-Kirkham |
 | Aperture size | 20-inch (508mm) |
 | Focal length | 3454mm |
 | Focal Ratio | f/6.8 |
 
-The camera add on to the πCETL telescope is a [Moravian instruments G3-11000 CCD](https://www.gxccd.com/art?id=366). It has a monochrome OnSemi KAI-11002 sensor with 9 by 9 micron pixels. 1 pixel has a full well capacity of roughly 60,000 e-. Its sensor is 4032(H) by 2688(W) pixels. There are currently 4 out of 5 filters fitted, and these are B, V, R and I standard astronomy filters. 
+This telescope is used for visual observing, astrophotography, and astrometry, having both a 2in eyepiece receptacle and a camera mounting point. The camera is a monochrome [Moravian instruments G3-11000 CCD](https://www.gxccd.com/art?id=366) with a OnSemi KAI-11002 sensor with 9 by 9 micron pixels and a full well capacity of roughly 60,000 e-. Its sensor is 4032(H) by 2688(W) pixels. There are currently 4 out of 5 filters fitted, and these are B, V, R and I standard astronomy filters. 
 
 ## Small Observatory
 
@@ -28,3 +28,5 @@ The camera add on to the πCETL telescope is a [Moravian instruments G3-11000 CC
 | Aperture size | 12-inch (305mm) |
 | Focal length | 3048mm |
 | Focal Ratio | f/10 |
+
+The small observatory is used for visual astronomy and training students. 
